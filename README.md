@@ -1,4 +1,4 @@
-# Portifolio-2026
+# Portfolio-2026
 
 Bem-vindo ao meu portfólio pessoal! 🚀  
 Este projeto foi desenvolvido para apresentar meus trabalhos e habilidades como desenvolvedor **Fullstack** e em **Inteligência Artificial**, com foco em aplicações modernas usando **React** e **Vite**.
