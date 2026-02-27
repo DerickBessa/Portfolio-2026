@@ -1,16 +1,65 @@
-# React + Vite
+# Portfolio-2026
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao meu portfólio pessoal! 🚀  
+Este projeto foi desenvolvido para apresentar meus trabalhos e habilidades como desenvolvedor **Fullstack** e em **Inteligência Artificial**, com foco em aplicações modernas usando **React** e **Vite**.
 
-Currently, two official plugins are available:
+## 🌐 Demo
+Você pode conferir o portfólio online aqui: [derickbessa-portifolio-2026.vercel.app](https://derickbessa-portifolio-2026.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💻 Tecnologias Utilizadas
+- **React** – Biblioteca JavaScript para construção de interfaces  
+- **Vite** – Ferramenta de build ultrarrápida para frontend  
+- **JavaScript / JSX** – Lógica e componentes  
+- **HTML & CSS** – Estrutura e estilo das páginas  
+- **ESLint** – Padronização e boas práticas de código  
 
-## React Compiler
+## 🗂 Estrutura do Projeto
+Portifolio-2026/
+- public/              → Recursos estáticos (imagens, favicon)  
+- src/                 → Código-fonte da aplicação  
+  - components/        → Componentes reutilizáveis  
+  - pages/             → Páginas principais  
+  - assets/            → Imagens e ícones  
+  - App.jsx            → Componente raiz  
+  - main.jsx           → Ponto de entrada do React  
+- package.json         → Dependências e scripts  
+- vite.config.js       → Configuração do Vite  
+- eslint.config.js     → Configuração do ESLint  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Como Rodar Localmente
+1. Clone o repositório:
+    ```
+    git clone https://github.com/DerickBessa/Portifolio-2026.git
+    ```
+2. Entre na pasta do projeto:
+    ```
+    cd Portifolio-2026
+    ```
+3. Instale as dependências:
+    ```
+    npm install
+    ```
+4. Inicie o servidor de desenvolvimento:
+    ```
+    npm run dev
+     ou
 
-## Expanding the ESLint configuration
+    npm run dev --host
+   (se você quiser testar em uma máquina conectada na mesma internet)
+    ```
+5. Abra seu navegador no endereço fornecido pelo terminal (geralmente `http://localhost:5173/`)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📈 Funcionalidades
+- Apresentação de projetos e trabalhos realizados  
+- Navegação rápida entre seções  
+- Layout responsivo para desktop e mobile  
+- Seção de contato para futuras oportunidades  
+
+## 🔧 Próximos Passos
+- Adicionar novos projetos e atualizações regularmente  
+- Implementar animações e interações mais avançadas  
+- Otimizar performance e SEO  
+
+
+Feito com 💙 por **Derick Bessa**
+
