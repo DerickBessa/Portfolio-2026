@@ -27,14 +27,30 @@ export const AboutSection = () => {
               in AI and modern software development.
             </p>
 
-            <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
+            <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center items-center">
                 <a href="#contact" className="cosmic-button">
                     Get In Touch
                 </a>
 
-                <a href="/cv.pdf" download className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 trasition-colors duration-300">
-                    Download CV
-                </a>
+                <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center mb-4">
+                    {/* Botão para CV PT-BR */}
+                    <a 
+                        href="https://cv-resumes.vercel.app/BR/resume-ptbr.html" 
+                        target="_blank" 
+                        className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                    >
+                        Check CV (PT-BR)
+                    </a>
+
+                    {/* Botão para CV English */}
+                    <a 
+                        href="https://cv-resumes.vercel.app/english/resume.html" 
+                        target="_blank" 
+                        className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+                    >
+                        Check CV (EN)
+                    </a>
+                </div>
             </div>
           </div>
          <div className="grid grid-cols-1 gap-6">

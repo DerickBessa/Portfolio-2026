@@ -44,7 +44,7 @@ export const ContactSection = () => {``
                     <div className="text-center">
                     <h4 className="font-medium">Phone</h4>
                     <a
-                        href="https://wa.me/5585987588044"
+                        href="https://wa.me/5585987588044?text=Hi%21%20I%20liked%20your%20portfolio%20and%20I%27m%20curious%20to%20learn%20more%20about%20your%20work%21"
                         className="text-muted-foreground hover:text-primary transition-colors"
                     >
                         +55 (85) 9-8758-8044
