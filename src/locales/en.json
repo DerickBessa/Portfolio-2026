@@ -26,8 +26,8 @@
     "paragraph2": "I'm driven by curiosity and a constant desire to improve. I actively explore new technologies and approaches to keep evolving in AI and modern software development.",
     "contactButton": "Get In Touch",
     "cv": {
-      "pt": "Check CV (PT-BR)",
-      "en": "Check CV (EN)"
+      "pt": "Check CV (Portuguese)",
+      "en": "Check CV (English)"
     },
     "cards": {
       "devTitle": "AI & Fullstack Development",
@@ -67,7 +67,7 @@
       "description": "Command-line app that manages events and musical repertoires, stores data in SQLite, and generates PDF reports for clients."
     }
   },
-  
+
   "contact": {
     "title": "Get In",
     "highlight": "Touch",
