@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "lightModeMessage": "Try dark mode for a more immersive experience ✨",
+    "greeting": "Hi, I'm",
+    "firstName": "Derick",
+    "lastName": "Bessa",
+    "description": "I turn ideas into reality with modern technology. Using AI and fullstack development to create functional and beautiful solutions.",
+    "viewWorkButton": "View My Work",
+    "scroll": "Scroll"
+  },
+
+
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+
+   "about": {
+    "title": "About",
+    "highlight": "Me",
+    "subtitle": "AI Engineer & Fullstack Developer",
+    "paragraph1": "With over 1 year of experience in Artificial Intelligence and fullstack development, I specialize in building scalable applications and intelligent systems using modern technologies. I work across both areas independently and combine them when needed to build innovative solutions.",
+    "paragraph2": "I'm driven by curiosity and a constant desire to improve. I actively explore new technologies and approaches to keep evolving in AI and modern software development.",
+    "contactButton": "Get In Touch",
+    "cv": {
+      "pt": "Check CV (PT-BR)",
+      "en": "Check CV (EN)"
+    },
+    "cards": {
+      "devTitle": "AI & Fullstack Development",
+      "devDesc": "Transforming data and computer vision into fully integrated, end-to-end solutions.",
+      "designTitle": "UI/UX Design",
+      "designDesc": "Designing simple and intuitive interfaces that make complex systems easy to use.",
+      "techTitle": "Modern Tech Stack",
+      "techDesc": "Always adopting modern technologies and best practices to deliver high-quality and future-proof solutions."
+    }
+  },
+
+  "skills": {
+    "title": "My",
+    "highlight": "Skills",
+    "categories": {
+      "all": "All",
+      "ai": "AI",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Tools"
+    }
+  },
+
+  
+  "projects": {
+    "title": "Featured",
+    "highlight": "Projects",
+    "description": "Here are some of my recent projects. Each project was carefully crafted with attention to detail, performance, and user experience.",
+    "button": "Check My Github",
+    "sfa": {
+      "description": "System that captures and recognizes car license plates using YOLO and OCR, queries the database, and generates a PDF document with the owner's information."
+    },
+    "tanalista": {
+      "description": "App that manages all event organization and features, including Date, Guests, Place, and allows guest entry via QR Code, biometrics, or only ID, with real-time validation and secure report generation."
+    },
+    "bessa": {
+      "description": "Command-line app that manages events and musical repertoires, stores data in SQLite, and generates PDF reports for clients."
+    }
+  },
+  
+  "contact": {
+    "title": "Get In",
+    "highlight": "Touch",
+    "description": "Have a project or idea in mind? Feel free to reach out! I’m always open to discussing new opportunities.",
+    "infoTitle": "Contact Information",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone",
+    "locationLabel": "Location",
+    "locationValue": "Fortaleza, CE, Brazil",
+    "socialTitle": "Connect With Me"
+  }
+
+}

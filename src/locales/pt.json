@@ -1,0 +1,85 @@
+{
+  "hero": {
+    "lightModeMessage": "Experimente o modo escuro para uma experiência ainda mais imersiva ✨",
+    "greeting": "Olá, Eu sou",
+    "firstName": "Derick",
+    "lastName": "Bessa",
+    "description": "Transformo ideias em realidade com tecnologia moderna. Uso IA e desenvolvimento fullstack para criar soluções funcionais e bonitas.",
+    "viewWorkButton": "Veja meu trabalho",
+    "scroll": "Deslize"
+  },
+
+  
+  
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "contact": "Contato"
+  },
+
+  
+  "about": {
+    "title": "Sobre",
+    "highlight": "Mim",
+    "subtitle": "Engenheiro de IA & Desenvolvedor Fullstack",
+    "paragraph1": "Com mais de 1 ano de experiência em Inteligência Artificial e desenvolvimento fullstack, eu me especializo em construir aplicações escaláveis e sistemas inteligentes utilizando tecnologias modernas. Trabalho de forma independente em ambas as áreas e as combino quando necessário para criar soluções inovadoras.",
+    "paragraph2": "Sou movido pela curiosidade e pelo desejo constante de evoluir. Exploro ativamente novas tecnologias e abordagens para continuar evoluindo em IA e desenvolvimento de software moderno.",
+    "contactButton": "Entre em Contato",
+    "cv": {
+      "pt": "Ver CV (PT-BR)",
+      "en": "Ver CV (EN)"
+    },
+    "cards": {
+      "devTitle": "Desenvolvimento AI & Fullstack",
+      "devDesc": "Transformando dados e visão computacional em soluções completas, integradas e de ponta a ponta.",
+      "designTitle": "UI/UX Design",
+      "designDesc": "Desenhando interfaces simples e intuitivas que tornam sistemas complexos fáceis de usar.",
+      "techTitle": "Stack Tecnológico Moderno",
+      "techDesc": "Sempre adotando tecnologias modernas e boas práticas para entregar soluções de alta qualidade e preparadas para o futuro."
+    }
+  },
+
+  
+  "skills": {
+    "title": "Minhas",
+    "highlight": "Habilidades Técnicas",
+    "categories": {
+      "all": "Todas",
+      "ai": "IA",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Ferramentas"
+    }
+  },
+
+  "projects": {
+    "title": "Projetos",
+    "highlight": "Destaque",
+    "description": "Aqui estão alguns dos meus projetos recentes. Cada projeto foi cuidadosamente elaborado com atenção aos detalhes, performance e experiência do usuário.",
+    "button": "Confira meu Github",
+    "sfa": {
+      "description": "Sistema que captura e reconhece placas de veículos usando YOLO e OCR, consulta o banco de dados e gera um PDF com as informações do proprietário."
+    },
+    "tanalista": {
+      "description": "Aplicativo que gerencia todos os recursos e organização de eventos, incluindo Data, Convidados, Local e permite entrada de convidados via QR Code, biometria ou apenas ID, com validação em tempo real e geração de relatórios seguros."
+    },
+    "bessa": {
+      "description": "Aplicativo de linha de comando que gerencia eventos e repertórios musicais, armazena dados no SQLite e gera relatórios em PDF para clientes."
+    }
+  },
+
+   "contact": {
+    "title": "Entre em",
+    "highlight": "Contato",
+    "description": "Tem um projeto ou ideia em mente? Sinta-se à vontade para entrar em contato! Estou sempre aberto a novas oportunidades.",
+    "infoTitle": "Informações de Contato",
+    "emailLabel": "Email",
+    "phoneLabel": "Telefone",
+    "locationLabel": "Localização",
+    "locationValue": "Fortaleza, CE, Brasil",
+    "socialTitle": "Conecte-se comigo"
+  }
+
+}
