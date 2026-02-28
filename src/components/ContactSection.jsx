@@ -75,9 +75,11 @@ export const ContactSection = () => {
                 <a href="https://www.linkedin.com/in/derickbessa/" target="_blank" rel="noreferrer" className="hover:scale-110 transition-transform duration-300">
                   <Linkedin className="h-6 w-6 text-primary hover:text-secondary-foreground transition-colors"/>
                 </a>
+                <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
                 <a href="https://www.instagram.com/_dbessa/" target="_blank" rel="noreferrer" className="hover:scale-110 transition-transform duration-300">
                   <Instagram className="h-6 w-6 text-primary hover:text-secondary-foreground transition-colors"/>
                 </a>
+                
               </div>
             </div>
           </div>
